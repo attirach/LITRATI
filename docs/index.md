@@ -11,19 +11,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Nama Kelompok : Minat Baca Tinggi untuk Indonesia (MBTI)
+Ketua Kelompok : Naufal Halim 19/446784/TK/49889
+Anggota 1 : Ardhianto Raharjo - 19/444038/TK/49234 
+Anggota 2 : T. Rafi Nugroho M. - 19/439823/TK/48553 
+Anggota 3 : Hafidz Arifudin - 19/444052/TK/49248
 
-- Bulleted
-- List
+Project Senior Project TI
 
-1. Numbered
-2. List
+Departemen Teknologi Elektro dan Teknologi Informasi
+Fakultas Teknik
+Universitas Gadjah Mada
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
