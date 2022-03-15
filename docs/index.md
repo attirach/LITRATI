@@ -43,3 +43,16 @@ membaca menjadi lifestyle di Indonesia?
 ### Solusi
 Sistem rekomendasi buku yang disesuaikan berdasarkan preferensi dan ketertarikan
 pengguna.
+
+### Metodologi
+Metodologi yang digunakan adalah metodologi Agile
+
+Kami memilih menggunakan metodologi agile karena metodologi ini lebih cenderung iterative yang memungkinkan kami selaku pengembang untuk bisa tanggap dan adaptif dengan perubahan situasi dan kondisi di masa depan. Selain itu, kami juga menjadi lebih dapat mengetahui kemauan bertahap dari client atau dalam konteks proyek ini adalah pengguna yang memberikan feedback terkait sistem. Terlebih, kami dapat membuat desain dan implementasi dengan sesederhana mungkin untuk kemudian kami ulas tingkat keberhasilan dan kesesuaiannya. 
+Kami menggambarkan pengerjaan dengan analogi sederhana pembuatan kendaraan yang sesuai dengan kebutuhan pengguna. Kami awalnya dapat membuat kendaraan roda dua sederhana, jika pengguna merasa sudah dapat memenuhi kebutuhannya maka kami akan melanjutkan iterasi selanjutnya dan mengembangkan kembali sesuai feedback. Misalnya, kami dapat melanjutkan dengan membuat kendaraan roda 2 dengan pengembangan baru dan berlanjut sampai mendapat hasil yang sesuai dengan pengembang dan juga pengguna.
+Tentunya hal ini juga diimbangi dengan konsekuensi setiap anggota dalam tim memiliki requirement yang dapat berubah sewaktu-waktu, keterlibatan baik pengguna dan pengembang secara aktif, dan rilis di setiap iterasi untuk kemudian di evaluasi. Kami juga mempertimbangkan perihal waktu pengembangan yang singkat dan bukan merupakan proyek dengan skala besar. Dengan begitu, metode ini cukup ideal digunakan oleh tim kami dalam mengembangkan proyek Litrati.
+
+### Tujuan Produk
+Litrati bertujuan untuk memberikan rekomendasi buku bacaan berdasarkan preferensi dan ketertarikan pengguna.
+
+### Pengguna Potensial dari Produk
+Pengguna paling potensial dari produk ini adalah masyarakat tidak buta huruf yang berusia produktif (15-64 tahun).
