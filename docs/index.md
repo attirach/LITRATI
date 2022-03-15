@@ -10,7 +10,7 @@
 
 ### Departemen Teknologi Elektro dan Teknologi Informasi, Fakultas Teknik, Universitas Gadjah Mada
 
-Nama Produk : LITRATI
+Nama Produk : LITERATI
 
 ### Latar Belakang
 Belakangan ini popularitas buku di Indonesia semakin tinggi. Hal ini dikarenakan banyak
