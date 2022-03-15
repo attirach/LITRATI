@@ -1,4 +1,4 @@
-# LITRATI
+# LITERATI
 Cari literasi
 
 Minat Baca Tinggi untuk Indonesia (MBTI)
