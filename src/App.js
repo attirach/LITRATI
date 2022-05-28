@@ -6,7 +6,7 @@ import Menu from './components/Menu';
 import LeftSide from './components/LeftSide';
 import RightSide from './components/RightSide';
 import Stylesheet from './components/Stylesheet';
-import inline from './components/inline';
+import inline from './components/inline';  
 
 function App() {
   return (
