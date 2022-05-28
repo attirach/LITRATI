@@ -1,23 +1,24 @@
 import logo from './logo.svg';
 import './App.css';
+import "bootstrap/dist/css/bootstrap.css"
+import {Button, Alert, Row, Col} from 'react-bootstrap';
+import Menu from './components/Menu';
+import LeftSide from './components/LeftSide';
+import RightSide from './components/RightSide';
+import Stylesheet from './components/Stylesheet';
+import inline from './components/inline';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Menu />
+      {/* <Stylesheet primary='true' /> */}
+      {/* <inline /> */}
+      <Row className='landing col-7-3-gap'>
+        <Col><RightSide /></Col>
+        <Col><LeftSide/></Col>
+        
+      </Row>
     </div>
   );
 }

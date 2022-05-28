@@ -1,0 +1,45 @@
+.primary {
+    color: #1B1E25; 
+}
+
+.font-xl {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+align-items: center;
+letter-spacing: 0.005em;   
+}
+
+.box {
+background: #F1F1F1;
+border-radius: 16px;
+
+}
+
+.btn-masuk {
+
+flex-direction: row;
+align-items: center;
+margin-top: 1em;
+width: 275px;
+background: #5874DC;
+border-radius: 16px;
+
+}
+
+.img-cover {
+object-fit: cover;
+
+}
+
+.col-7-3{
+    display: grid;
+    grid-template-columns: 7fr 3fr;
+    }
+    
+.col-7-3-gap{
+    display: grid;
+    grid-template-columns: 7fr 3fr;
+    grid-column-gap: 1em;
+    }
+
