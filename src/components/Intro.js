@@ -16,7 +16,7 @@ const intro = () => {
        <div className='title'>Temukan Rekomendasi</div>
        <div className="title">Buku Bacaan Untuk Kamu</div>
        <div>
-         <SearchBar placeholder="Masukkan Nama Buku..." data={BookData}/>  
+         <SearchBar />  
        </div>
        {/* <div className="introButton mt-4 text-center">
            <Button className="btn-ardhi">

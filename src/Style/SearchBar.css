@@ -16,11 +16,7 @@
 }
 
 .searchIcon {
-  height: 60px;
-  width: 50px;
-  background-color: #E3873C;
-  display: grid;
-  place-items: center;
+border: none;
 }
 
 input:focus {
