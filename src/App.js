@@ -10,8 +10,6 @@ import BookData from "./data/Data-book.json"
 import "./Style/SearchBar.css"
 
 
-
-
 function App() {
   return (
    <div>
@@ -46,6 +44,7 @@ function App() {
       <div className='recommendation'>
             <Recommendation />
       </div>
+
    </div>
   )
 }
